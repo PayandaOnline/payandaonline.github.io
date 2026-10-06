@@ -16,7 +16,7 @@ google.com, pub-2998442915393213, DIRECT, f08c47fec0942fa0
 
 #Meta-Audience
 
-facebook.com,Business_ID,RESELLER,247274772692153
+facebook.com,247274772692153,RESELLER,c3e20eee3f780d68
 
 #Add other networks if applicable
 
